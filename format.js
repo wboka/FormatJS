@@ -1,5 +1,5 @@
 var Format = {
-	date: function(d) {
+	date: {
 		locale: function(d) {
 			return d.toLocaleString();
 		}			
